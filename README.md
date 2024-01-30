@@ -26,11 +26,10 @@ $ npx create-next-app@latest
 
 # Inicia o Projeto
 $ yarn dev
+
+# Gerar os Objetos das Imagens pelo svgr
+$ yarn svgr
 ```
-
-
-
-
 ## Back-End
 
 
