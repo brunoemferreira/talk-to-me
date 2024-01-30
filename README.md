@@ -2,7 +2,7 @@
 Projeto desenvolvido na Semana do Herói 03 - Hero Code 
 
 ## Aulas 
-* [Vídeo Aula 01](https://www.youtube.com/watch?v=YVDKmz-RCA0) - Stop : 36:50
+* [Vídeo Aula 01](https://www.youtube.com/watch?v=YVDKmz-RCA0) - OK
 * [Vídeo Aula 02]() - 
 * [Vídeo Aula 03]() - 
 
